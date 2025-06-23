@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|c:\\users\\user\\desktop\\army\\generics\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|c:\\users\\user\\desktop\\army\\generics\\generics\\generics\\replaceawithsixblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|solutionrelative:generics\\replaceawithsixblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|c:\\users\\user\\desktop\\army\\generics\\generics\\generics\\idataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|solutionrelative:generics\\idataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|c:\\users\\user\\desktop\\army\\generics\\generics\\generics\\reverseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|solutionrelative:generics\\reverseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|c:\\users\\user\\desktop\\army\\generics\\generics\\generics\\uppercaseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|solutionrelative:generics\\uppercaseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|c:\\users\\user\\desktop\\army\\generics\\generics\\generics\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA5A43-124E-44AD-9409-B0400391C774}|Generics\\Generics.csproj|solutionrelative:generics\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReplaceAWithSixBlock.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\ReplaceAWithSixBlock.cs",
+              "RelativeDocumentMoniker": "Generics\\ReplaceAWithSixBlock.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\ReplaceAWithSixBlock.cs",
+              "RelativeToolTip": "Generics\\ReplaceAWithSixBlock.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:35:36.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReverseBlock.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\ReverseBlock.cs",
+              "RelativeDocumentMoniker": "Generics\\ReverseBlock.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\ReverseBlock.cs",
+              "RelativeToolTip": "Generics\\ReverseBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:57:26.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpperCaseBlock.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\UpperCaseBlock.cs",
+              "RelativeDocumentMoniker": "Generics\\UpperCaseBlock.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\UpperCaseBlock.cs",
+              "RelativeToolTip": "Generics\\UpperCaseBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:11:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataFlow.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\IDataFlow.cs",
+              "RelativeDocumentMoniker": "Generics\\IDataFlow.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\IDataFlow.cs",
+              "RelativeToolTip": "Generics\\IDataFlow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:07:16.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlock.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\IBlock.cs",
+              "RelativeDocumentMoniker": "Generics\\IBlock.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\IBlock.cs",
+              "RelativeToolTip": "Generics\\IBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:05:44.114Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "Generics\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\army\\Generics\\Generics\\Generics\\Program.cs",
               "RelativeToolTip": "Generics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T15:32:53.084Z",
               "EditorCaption": ""
