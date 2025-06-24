@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Generics
 {
-    internal class UpperCaseBlock:IBlock<string>
+    internal class UpperCaseBlock:IBlock<T>
     {
         public UpperCaseBlock()
         {
             
         }
-       public string Process(string input)
+       public T Process(T input)
        {
             return input.ToUpper();
        }

@@ -1,6 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
-string[] names = { "Tommy", "Fred", "Rashid", "Bobby" };
-
-string input = "AADC4";
-input=input.Replace("A", "6");
-Console.WriteLine(  input);
+bool IsPalindrome(int x)
+{
+    string number = x.ToString();
+    int SumOfDigits = number.Length;
+    int length = number.Length / 2;
+    for (int i = 0; i <= length; i++)
+    {
+        SumOfDigits -= 1;
+        if (number[i] != number[SumOfDigits])
+        {
+            return false;
+        }
+    }
+    return true;
+}
+Console.WriteLine(IsPalindrome(121));
