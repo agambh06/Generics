@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Generics
 {
-    internal class UpperCaseBlock<string>:IBlock<string>
+    internal class UpperCaseBlock:IBlock<string>
     {
        public string Process(string input)
        {
