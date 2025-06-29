@@ -8,10 +8,7 @@ namespace Generics
 {
     public class ReplaceAWithSixBlock : IBlock<string>
     {
-        public ReplaceAWithSixBlock()
-        {
-
-        }
+        
         public string Process(string input)
         {
             input=input.Replace('A', '6');

@@ -8,7 +8,7 @@ namespace Generics
 {
     internal class DataFlow<T>:IDataFlow<T> where T : class
     {
-        public List<IBlock<T>> _blocks {  get; set; }
+        public List<IBlock<T>> _blocks=new List<IBlock<T>>();
 
         public T RunFlow(T input)
         {

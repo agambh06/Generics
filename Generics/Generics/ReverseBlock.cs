@@ -10,12 +10,8 @@ namespace Generics
     {
         public string Process(string input)
         {
-            for (int i = input.Length-1; i >=0 ; i--)
-            {
-                char c = input[i];
-                input.Remove(i);
-                input = c + input;
-            }
+           
+               input= (string)input.Reverse();
             return input;
         }
     }
